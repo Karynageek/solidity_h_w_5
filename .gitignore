@@ -1,0 +1,20 @@
+node_modules
+.env
+coverage
+coverage.json
+typechain
+build
+migrations
+
+#Hardhat files
+cache
+artifacts
+.DS_Store
+
+#IDE files
+.idea
+
+truffle-config.js
+hardhat.config.ts
+
+scripts
